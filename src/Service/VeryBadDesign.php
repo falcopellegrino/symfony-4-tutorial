@@ -1,0 +1,24 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: Franco
+ * Date: 3/9/2019
+ * Time: 5:15 PM
+ */
+
+namespace App\Service;
+
+use Symfony\Component\DependencyInjection\ContainerAwareInterface;
+use Symfony\Component\DependencyInjection\ContainerInterface;
+
+class VeryBadDesign implements ContainerAwareInterface
+{
+    /**
+     * @required
+     */
+    public function setContainer(ContainerInterface $container = null)
+    {
+//        $container->get(Greeting::class);
+        $container->get("app.greeting");
+    }
+}
