@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94075828-e8b6-4db8-90ed-26e2656c45be" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="52" column="47" selection-start-line="52" selection-start-column="47" selection-end-line="52" selection-end-column="47" />
+            <state relative-caret-position="833">
+              <caret line="55" column="50" selection-start-line="55" selection-start-column="50" selection-end-line="55" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -33,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/composer.lock">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="5915" column="10" selection-start-line="5915" selection-start-column="10" selection-end-line="5915" selection-end-column="10" />
+            <state relative-caret-position="262">
+              <caret line="5915" column="10" lean-forward="true" selection-start-line="5915" selection-start-column="10" selection-end-line="5915" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -64,7 +65,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>getro</find>
       <find>fulln</find>
       <find>MicropostVoter</find>
       <find>posts</find>
@@ -94,6 +94,7 @@
       <find>default_lo</find>
       <find>loaduser</find>
       <find>webdriver</find>
+      <find>panther</find>
     </findStrings>
     <dirStrings>
       <dir>D:\Shared\Studio\PHPSymfonyMVC\symfony01</dir>
@@ -154,8 +155,8 @@
         <option value="$PROJECT_DIR$/tests/Mailer/MailerTest.php" />
         <option value="$PROJECT_DIR$/bin/deploy/pre_deploy.sh" />
         <option value="$PROJECT_DIR$/bin/deploy/deploy.sh" />
-        <option value="$PROJECT_DIR$/.circleci/config.yml" />
         <option value="$PROJECT_DIR$/composer.lock" />
+        <option value="$PROJECT_DIR$/.circleci/config.yml" />
       </list>
     </option>
   </component>
@@ -357,12 +358,12 @@
       <workItem from="1554566488538" duration="19853000" />
       <workItem from="1554707918443" duration="5162000" />
       <workItem from="1554918297442" duration="3990000" />
-      <workItem from="1555147297773" duration="11830000" />
+      <workItem from="1555147297773" duration="12050000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144804000" />
+    <option name="totallyTimeSpent" value="145024000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="798" extended-state="6" />
@@ -751,13 +752,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="52" column="47" selection-start-line="52" selection-start-column="47" selection-end-line="52" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
@@ -767,8 +761,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.lock">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="5915" column="10" selection-start-line="5915" selection-start-column="10" selection-end-line="5915" selection-end-column="10" />
+        <state relative-caret-position="262">
+          <caret line="5915" column="10" lean-forward="true" selection-start-line="5915" selection-start-column="10" selection-end-line="5915" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="55" column="50" selection-start-line="55" selection-start-column="50" selection-end-line="55" selection-end-column="50" />
         </state>
       </provider>
     </entry>
